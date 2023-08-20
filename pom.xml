@@ -149,5 +149,6 @@
 	<packaging>pom</packaging>
 	<modules>
 		<module>firstp</module>
+		<module>Basika</module>
 	</modules>
 </project>
