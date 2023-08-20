@@ -147,4 +147,7 @@
 	</build>
 
 	<packaging>pom</packaging>
+	<modules>
+		<module>firstp</module>
+	</modules>
 </project>
