@@ -146,4 +146,5 @@
 		</pluginManagement>
 	</build>
 
+	<packaging>pom</packaging>
 </project>
